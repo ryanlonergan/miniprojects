@@ -1,6 +1,5 @@
-# My stuff
-w3_python_resources/.idea/
-w3_python_resources/w3_venv/
+# My added items
+/.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
