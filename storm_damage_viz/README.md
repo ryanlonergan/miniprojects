@@ -4,4 +4,8 @@ When browsing the [dataisbeautiful subreddit](https://www.reddit.com/r/dataisbea
 
 *Screenshot of the original visualization*
 
-Before investigating, 
+Before investigating, I wanted to list out a few areas where I think the original poster may have gone wrong before investigating fully. They may be incorrect, but these were the areas I wanted to investigate as starting points:
+
+- The poster may be from the southern hemisphere and may have mixed up the months for seasons in the northern hemisphere.
+- Season start and ends change depending on whether a meteorologic or calendar definition is used, which may influence the data.
+- The datasource has a strange format for dates and the original poster stated that they used Excel and SQL to handle the cleaning and aggregation. I don't believe those are the ideal tools to process the data, so I'm wondering if there may have been some mistakes interpreting the dates.
