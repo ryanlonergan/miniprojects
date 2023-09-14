@@ -8,4 +8,4 @@ Before investigating, I wanted to list out a few areas where I think the origina
 
 - The poster may be from the southern hemisphere and may have mixed up the months for seasons in the northern hemisphere.
 - Season start and ends change depending on whether a meteorologic or calendar definition is used, which may influence the data.
-- The datasource has a strange format for dates and the original poster stated that they used Excel and SQL to handle the cleaning and aggregation. I don't believe those are the ideal tools to process the data, so I'm wondering if there may have been some mistakes interpreting the dates.
+- The datasource has a timestamp format for dates that needs to be parsed and the original poster stated that they used Excel and SQL to handle the cleaning and aggregation. I don't believe those are the ideal tools to process the data with Excel especially not liking it, so I wonder if there may have been some mistakes interpreting the dates.
