@@ -1,5 +1,6 @@
 # My added items
 /.idea
+/file_scanner/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
